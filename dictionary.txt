@@ -1,0 +1,374 @@
+Abandon
+"Give up completely"
+Abstain
+Surrender
+
+Adaptable
+"Able to adjust to new conditions"
+Immutable
+Adjustable
+
+Ancestor
+"Forefather"
+Offspring
+Antecedant
+
+Beneath
+"Below"
+Up
+Underneath
+
+Bouquet
+"Bundle of flowers"
+Stench
+Nosegay
+
+Burst
+"Breaking or splitting"
+Implode
+Shatter
+
+Coagulate
+"To turn into a solid or semi-solid state"
+Liquefy
+Clot
+
+Compromise
+"An agreement or settlement"
+Intransigence
+Accomodation
+
+Cautious
+"Careful to avoid potential problems or dangers"
+Incautious
+Careful
+
+Deaf
+"Lacking the power of hearing"
+Attentive
+Unhearing
+
+Degrade
+"Treat with disrespect"
+Dignify
+Devalue
+
+Dishonest
+"Intended to mislead or cheat"
+Honest
+Fraudulent
+
+Earn
+"Gain"
+Lose
+Obtain
+
+Extrovert
+"An outgoing, socially confident person"
+Introvert
+Socializer
+
+Embed
+"Fix firmly and deeply in a surrounding mass"
+Ascend
+Enclose
+
+Failure
+"Lack of success"
+Success
+Failing
+
+Flourish
+"Grow or develop in a healthy or vigorous way"
+Wither
+Prosper
+
+Fun
+"Light hearted pleasure"
+Boredom
+Entertainment
+
+Goal
+"The destination of a journey"
+Beginning
+Ambition
+
+Graceful
+"Showing elegance"
+Stiff
+Stylish
+
+Gradual
+"Taking place or progressing slowly"
+Sudden
+Moderate
+
+Hi
+"Greetings or salutation to meet informally"
+Hello
+Bye
+
+Hopeful
+"Feeling or inspiring optimism about a future event"
+Pessimistic
+Optimistic
+
+Humanity
+"The state of being human"
+Imhumanity
+Benevolence
+
+Hello
+"Greeting"
+Hi
+Bye
+
+Illusion
+"A deceptive appearance or impression"
+Reality
+Impression
+
+Imitate
+"Copy or simulate"
+Oppose
+Replicate
+
+Insist
+"Demand forcefully to have (something)"
+Giveup
+Urge
+
+Joy
+"A feeling of great pleasure and happiness"
+Misery
+Delight
+
+Joke
+"A trick played on someone for fun"
+Seriousness
+Humor
+
+Justification
+"The action of showing something to be right"
+Opposition
+Explaination
+
+Know
+"Have knowledge or information concerning"
+Ignore
+Learn
+
+Knave
+"A dishonest or unscrupulous man"
+Honest
+Fraud
+
+Kind
+"Character or nature"
+Discourteous
+Affectionate
+
+Lack
+"Be without or deficient in"
+Abundance
+Absence
+
+Liberty
+"The state of being free within society"
+Dependence
+Independence
+
+Loyalty
+"The quality of being loyal"
+Disgrace
+Devotion
+
+Malicious
+"Intended to do harm"
+Benevolent
+Harmful
+
+Monopoly
+"The exclusive possession or control of the supply of or trade in a commodity or service"
+Joint-ownership
+Ownership
+
+Mystery
+"Something that is difficult to understand"
+Known
+Closed book
+
+Native
+"Belonging to a particular place by birth or origin"
+Regional
+Domestic
+
+Negation
+"The contradiction or denial of something"
+Affirmation
+Contradiction
+
+Nominate
+"Appoint to a job or position"
+Diplace
+Appoint
+
+Oblivion
+"Destruction or extinction"
+Remembrance
+Forgetfulness
+
+Offence
+"An illegal act"
+Goodness
+Crime
+
+Overactive
+"Excessively active"
+Undisturbed
+Hectic
+
+Penultimate
+"Second last"
+Premier
+Closing
+
+Perish
+"to stop living"
+Breathe
+Die
+
+Piety
+"The quality of being religious or reverent"
+Disbelief
+Devotion
+
+Quick
+"having or showing the ability to respond without delay or hesitation"
+Unresponsive
+Expeditious
+
+Quaint
+"Different from the ordinary"
+Familiar
+Odd
+
+Qualm
+"An uneasy feeling about the rightness of what one is doing"
+Certitude
+Misgiving
+
+Rash
+"Imprudently incurring risk"
+Deliberate
+Cursory
+
+Reallocate
+"Allocate again or in a different way"
+Misallocate
+Reapportion
+
+Royal
+"Having the status of a king, queen or their family member"
+Unimpressive
+Kingly
+
+Shine
+"Glow"
+Dullness
+Luster
+
+Shirk
+"to get or keep away from"
+Persue
+Avoid
+
+Scramble
+"an unorganized collection"
+Align
+Disarrange
+
+Truculent
+"Feeling or displaying eagerness to fight"
+Pacific
+Aggressive
+
+Tolerance
+"The ability or willingness to tolerate"
+Defiance
+Patience
+
+Taciturn
+"Habitually reserved and uncommunicative"
+Gossipy
+Dump
+
+Undisputed
+"Accepted"
+Controversy
+Accord
+
+Upset
+"Disturb"
+Calm
+Anxious
+
+Useful
+"Convenient"
+Abstract
+Workable
+
+Vacation
+"A fixed holiday period"
+Grub
+Break
+
+Venerable
+"Profoundly honored"
+Discreditable
+Revered
+
+Vulgar
+"Belonging to the class of people of low social or economic rank"
+Eminent
+Lower-Class
+
+Wanton
+"A lewd or lascivious person"
+Clean
+Dirty
+
+Warrior
+"A  program of tough training and discipline"
+Civilian
+Soldier
+
+Wake
+"To cause to stop sleeping"
+Mesmerize
+Arouse
+
+Yield
+"An increase usually measured in money "
+Cost
+Earning
+
+Yell
+"Loud"
+Whisper
+Shout
+
+Youth
+"The period between childhood and adult age"
+Senior Citizen
+Youngster
+
+Zest
+"The quality or state of being stimulating to the mind"
+Tastelessness
+Piquancy
+
+Zenith
+"The highest part or point"
+Base
+Crest
